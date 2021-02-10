@@ -1,0 +1,36 @@
+
+.plan{
+    color: black;
+    letter-spacing: 2px;
+    display:inline-block;
+    width:10%;
+    text-align: center;
+    padding: 10%;
+    margin: 0 4%;
+    border-radius: 10px;
+}
+
+.learn {
+    color: black;
+    letter-spacing: 2px;
+    display:inline-block;
+    width:10%;
+    text-align: center;
+    padding: 10%;
+    margin: 0 4%;
+    border-radius: 10px;
+}
+.get {
+    color: black;
+    letter-spacing: 2px;
+    display:inline-block;
+    width:10%;
+    text-align: center;
+    padding: 10%;
+    margin: 0 4%;
+    border-radius: 10px;
+}
+.navigate{
+    width:20%;
+    display: inline-block;
+}
